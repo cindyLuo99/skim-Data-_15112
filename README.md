@@ -1,6 +1,7 @@
 # skimData-15112
 
 **Project Name**: skim(Data)
+
 **Project Description**: (could also be found by clicking the 'i' button on the start page)
 
     skim(Data) is a handy tool that allows users to import a dataset and generate 
