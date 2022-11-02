@@ -73,6 +73,9 @@ try around by clicking around to discover additional features that are not inclu
 
 **Libraries used:** 
 cmu_112_graphics (https://www.cs.cmu.edu/~112/notes/notes-graphics.html)
+
 No other libraries were used in this project.
 
 **Shortcut commands:** press 'd' to load demo data
+
+Link to the demo video: https://www.youtube.com/watch?v=4zF79chlR6U
