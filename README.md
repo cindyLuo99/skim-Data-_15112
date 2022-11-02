@@ -1,7 +1,7 @@
 # skimData-15112
 
-Project Name: skim(Data)
-Project Description: (could also be found by clicking the 'i' button on the start page)
+**Project Name**: skim(Data)
+**Project Description**: (could also be found by clicking the 'i' button on the start page)
 
     skim(Data) is a handy tool that allows users to import a dataset and generate 
     different charts and data visualizations through an interactive dashboard with 
@@ -16,7 +16,7 @@ Project Description: (could also be found by clicking the 'i' button on the star
     the dataset. Its embedded analytic feature also produces reliable results for 
     ad-hoc analysis.
 
-How to run the project:
+**How to run the project:**
 
 1. User imports the dataset (stored in CSV format) from the same folder where the python file is stored by clicking 'import data' on the start page and entering the name of the data file
 	- in the demo, the name of the data file is called "Data File.csv"
@@ -70,6 +70,6 @@ try around by clicking around to discover additional features that are not inclu
 
 
 
-Libraries used: No libraries were used in this project.
+**Libraries used:** No libraries were used in this project.
 
-Shortcut commands: press 'd' to load demo data
+**Shortcut commands:** press 'd' to load demo data
