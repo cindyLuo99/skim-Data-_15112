@@ -1,0 +1,10 @@
+library(readxl)
+Test_for_Multiple_Linear_Regession <- read_excel("Desktop/CMU 2022 Spring/15112/Term Project/TP3/Test for Multiple Linear Regession.xlsx")
+View(Test_for_Multiple_Linear_Regession)
+
+Test_for_Multiple_Linear_Regession$Social_Percentage = round(Test_for_Multiple_Linear_Regession$Social_Percentage,digits = 2)
+Test_for_Multiple_Linear_Regession$Other_Percentage = round(Test_for_Multiple_Linear_Regession$Other_Percentage,digits = 2)
+model1 <- lm(Total_Screen_Time ~ Pickups + Notifications + Social_Percentage + Other_Percentage, data = Test_for_Multiple_Linear_Regession)
+summary(model1)
+model2 <- lm(Total_Screen_Time ~ Pickups + Notifications + Social_Percentage, data = Test_for_Multiple_Linear_Regession)
+summary(model2)

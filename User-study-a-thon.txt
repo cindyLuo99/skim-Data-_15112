@@ -1,0 +1,19 @@
+The feedback I received:
+
+- Try to prevent error messages by helping the user determine the correct data type (categorical vs. numerical) for the graphs
+- Or create different classes for data 
+  [Fixed it by disallowing the inappropriate variables to be chosen in the first place]
+- Case-sensitive input & a lot of typing
+  [Fixed it by replacing user input with buttons]
+- Default Database to prevent importing database multiple times when there is an error message
+  [Fixed it by creating a shortcut command to load demo data]
+- X-axis labels overlap with each other when "Date" is the x-variable
+  [Fixed it by adjusting the angle of the text]
+- Add a best-fit line for the scatter plot
+  [Not enough time to implement this feature :(][But will add it if I continue developing it!]
+
+
+
+
+
+
