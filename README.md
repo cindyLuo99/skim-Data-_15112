@@ -72,7 +72,7 @@ try around by clicking around to discover additional features that are not inclu
 
 
 **Libraries used:** 
-cmu_112_graphics (https://www.cs.cmu.edu/~112/notes/notes-graphics.html)
+cmu_112_graphics (https://www.cs.cmu.edu/~112/notes/cmu_112_graphics.py)
 
 No other libraries were used in this project.
 
