@@ -32,7 +32,7 @@
 4. To generate different graphs & conduct analysis, click the buttons on the main menu to use each feature:
 	- Notice that when data is first imported, skim(Data) will help the user determine if a variable
 	is appropriate for certain graph types. Therefore, the user can not select the buttons that
-	are illogical for the graph type/feature
+	are illogical for the graph type/feature.
 	Examples include but not limited to:
 		- generate graphs/view data without importing the dataset
 		- select a numerical valuable for the x-axis of a bar chart/line graph
