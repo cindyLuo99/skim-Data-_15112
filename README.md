@@ -16,6 +16,12 @@
     serving as an easy and flexible tool for anyone who wants to take a look at 
     the dataset. Its embedded analytic feature also produces reliable results for 
     ad-hoc analysis.
+    
+**Project Highlights**:
+
+Without any other external packages (NumPy&pandas not needed!!), skim(Data) allows users to conduct multiple linear regression, using Gaussian Elimination to find the inverse of the data matrix and calculate the coefficients accurately.
+
+Elegant user interface interactions.
 
 **How to run the project:**
 
